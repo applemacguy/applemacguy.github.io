@@ -189,7 +189,7 @@
 		-ms-transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
 		transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
 		border-bottom: dotted 1px;
-		color: #34a58e;
+		color: #18d6e4;
 		text-decoration: none;
 	}
 
@@ -1519,6 +1519,11 @@
 		-ms-flex-wrap: wrap;
 		flex-wrap: wrap;
 		-webkit-tap-highlight-color: rgba(255, 255, 255, 0);
+	}
+	
+	#links a {
+		font-size: 20px;
+		font-color: #18D6E4;
 	}
 
 		#main .thumb {
